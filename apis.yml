@@ -28,6 +28,8 @@ apis:
     description: >-
       The Ethan Allen Interiors API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/ethan-allen-interiors-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ethan-allen
   - type: Website

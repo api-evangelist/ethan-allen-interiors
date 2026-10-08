@@ -51,6 +51,12 @@ apis:
     description: >-
       The Ethan Allen Interiors API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/ethan-allen-interiors-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ethan-allen-interiors-rate-limits.yml
+  - type: FinOps
+    url: finops/ethan-allen-interiors-finops.yml
   - type: DomainSecurity
     url: security/ethan-allen-interiors-domain-security.yml
   - type: LinkedIn
